@@ -1,7 +1,7 @@
 This code is used to find a Hidden Markov Model (HMM) based on a given multiple sequence alignment.
 
 v1: November 2nd, 2025
-If given a protein MSA can generate sample protein sequences that follow similar distributions
+Currently able to find an HMM for a protein sequence, and generate "new" samples using the model
 
 v2: November 3rd, 2025
 Updated the code to:
