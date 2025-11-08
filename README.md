@@ -10,5 +10,10 @@ Updated the code to:
   - Work for either a protein or nucleotide sequence
   - Included non-zero base-rate probabilities to combat overfitting
   - Better model deletions by including a deletion hidden state.
-  
+
+**v3: November 8th, 2025**
+
+Added:
+  - Consensus sequences for an HMM
+  - Viterbi Algorithm to analyze an observation
   
