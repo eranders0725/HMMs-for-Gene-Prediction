@@ -1,4 +1,4 @@
-This code is used to find a Hidden Markov Model (HMM) based on a given multiple sequence alignment.
+This code implements a Hidden Markov Model (HMM) class and a way to construct them from scratch. It finds an HMM from a multiple sequence alignment
 
 **v1: November 2nd, 2025**
 
