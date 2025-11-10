@@ -16,4 +16,10 @@ Updated the code to:
 Added:
   - Consensus sequences for an HMM
   - Viterbi Algorithm to analyze an observation
+
+**v4: November 9th, 2025**
+
+Added extra options for extra model flexibility:
+   - Base Probabilities in myLog Function
+   - Option to consider larger than observed insertions/deletions when scoring
   
