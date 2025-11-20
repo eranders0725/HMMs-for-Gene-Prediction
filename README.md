@@ -22,4 +22,7 @@ Added:
 Added extra options for extra model flexibility:
    - Base Probabilities in myLog Function
    - Option to consider larger than observed insertions/deletions when scoring
+
+**v4: November 20th, 2025**
+Added a quick correlational comparison to pyHMMER
   
